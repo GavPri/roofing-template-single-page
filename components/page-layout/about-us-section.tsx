@@ -56,12 +56,12 @@ const AboutUs = () => {
 
           <div className="w-full md:w-2/3 md:p-6">
             <div className="max-w-4xl">
-              <h1 className="mb-12 text-4xl lg:text-7xl font-semibold text-foreground">
+              <h2 className="mb-12 text-4xl lg:text-7xl font-semibold text-foreground">
                 Why Austin Homeowners{" "}
                 <span className="text-primary font-bold">
                   Trust Top Tier Roofing
                 </span>
-              </h1>
+              </h2>
 
               <div className="space-y-12">
                 <p className="w-full text-2xl font-medium leading-[36px] md:max-w-2xl text-secondary-foreground">
