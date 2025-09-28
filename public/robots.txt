@@ -1,0 +1,23 @@
+# robots.txt for Top Tier Roofing - Austin's Premier Roofing Contractor
+
+User-agent: *
+Allow: /
+
+# Allow search engines to crawl all pages for better SEO
+Allow: /services
+Allow: /gallery
+Allow: /about
+Allow: /contact
+Allow: /testimonials
+
+# Block admin or development areas if they exist
+Disallow: /admin/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /private/
+
+# Sitemap location (to be generated)
+Sitemap: https://toptierroofing.com/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1

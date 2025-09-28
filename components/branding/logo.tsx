@@ -35,7 +35,7 @@ export function Logo({
     <div className={cn("flex items-center justify-center", sizeClasses[size])}>
       <Image
         src={logoSrc || "/placeholder.svg"}
-        alt="Logo"
+        alt="Top Tier Roofing - Austin's Premier Roofing Contractor"
         width={
           Number.parseInt(sizeClasses[size].split("h-")[1].split(" ")[0]) * 4
         } // Convert h-6 to 24px, h-8 to 32px, etc.
@@ -50,7 +50,7 @@ export function Logo({
 
   const LogoText = () => (
     <span className={cn("font-bold text-foreground", textSizeClasses[size])}>
-      Your Logo
+      Top Tier Roofing
     </span>
   );
 
