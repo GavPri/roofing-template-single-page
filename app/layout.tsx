@@ -20,7 +20,7 @@ const ibmPlexMono = IBM_Plex_Mono({
 
 export const metadata: Metadata = {
   title: "Top Tier Roofing - Austin's Premier Roofing Contractor",
-  description: "Top Tier Roofing provides expert roofing services in Austin, TX. Licensed & insured with 9+ years experience. Free estimates on residential & commercial roofing, storm damage repair, and emergency services.",
+  description: "Austin's premier roofing contractor. Licensed & insured with 9+ years experience. Free estimates on roofing, storm damage repair & emergency services.",
   keywords: [
     "roofing contractor Austin",
     "roof repair Austin TX",
@@ -68,13 +68,13 @@ export const metadata: Metadata = {
     locale: "en_US",
     url: "https://toptierroofing.com",
     title: "Top Tier Roofing - Austin's Premier Roofing Contractor",
-    description: "Top Tier Roofing provides expert roofing services in Austin, TX. Licensed & insured with 9+ years experience. Free estimates on residential & commercial roofing, storm damage repair, and emergency services.",
+    description: "Austin's premier roofing contractor. Licensed & insured with 9+ years experience. Free estimates on roofing, storm damage repair & emergency services.",
     siteName: "Top Tier Roofing",
   },
   twitter: {
     card: "summary_large_image",
     title: "Top Tier Roofing - Austin's Premier Roofing Contractor",
-    description: "Top Tier Roofing provides expert roofing services in Austin, TX. Licensed & insured with 9+ years experience.",
+    description: "Austin's premier roofing contractor. Licensed & insured with 9+ years experience.",
     creator: "@toptierroofing",
   },
   verification: {
